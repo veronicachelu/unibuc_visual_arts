@@ -46,6 +46,8 @@
 #### PyCharm 
 * PyCharm este un IDE pentru python. Recomandam in special pentru debugger si insistam in a nu face debug cu printf. Pentru toate feature-urile disponibile aici exista o lista exhaustiva.
 
-		
+### Python tutorial
+
+https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
 
