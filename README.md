@@ -50,4 +50,8 @@
 
 https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb
 
+### JupyterLab
+
+Info: https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906
+
 
